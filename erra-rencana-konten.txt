@@ -2,5 +2,8 @@ Rencana Konten Erra
 - Konten youtube cover
   # lagu Alone in this world
   # lagu Shoot Me
+    ^ Aransemen
+    ^ Instrumen
 - Konten instagram
 - Konten Tiktok
+- Konten Podcast
