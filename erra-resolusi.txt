@@ -1,0 +1,3 @@
+Erra resolusi
+- Memahami front end web developer
+- Memahami git, github, dan gitlab
