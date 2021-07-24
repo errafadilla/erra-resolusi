@@ -2,5 +2,7 @@ Rencana Konten Erra
 - Konten youtube cover
   # lagu Alone in this world
   # lagu Shoot Me
-- Konten instagram
+    ^ Acapela
+    ^ Instrumen
 - Konten Tiktok
+- Konten Podcast
